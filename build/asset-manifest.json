@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2f788171.chunk.css",
+    "main.js": "/static/js/main.68b58e44.chunk.js",
+    "main.js.map": "/static/js/main.68b58e44.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.3c85a3b2.js",
+    "runtime-main.js.map": "/static/js/runtime-main.3c85a3b2.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.7596ba39.chunk.js": "/static/js/2.7596ba39.chunk.js",
+    "static/js/2.7596ba39.chunk.js.map": "/static/js/2.7596ba39.chunk.js.map",
+    "static/js/3.3bc8f40b.chunk.js": "/static/js/3.3bc8f40b.chunk.js",
+    "static/js/3.3bc8f40b.chunk.js.map": "/static/js/3.3bc8f40b.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.2f788171.chunk.css.map": "/static/css/main.2f788171.chunk.css.map",
+    "static/js/2.7596ba39.chunk.js.LICENSE.txt": "/static/js/2.7596ba39.chunk.js.LICENSE.txt",
+    "static/media/Artboard – 1.89fbd8bf.png": "/static/media/Artboard – 1.89fbd8bf.png",
+    "static/media/Artboard – 4.6c97be1d.png": "/static/media/Artboard – 4.6c97be1d.png",
+    "static/media/Artboard – 5.d8b36539.png": "/static/media/Artboard – 5.d8b36539.png",
+    "static/media/Cardbiulding.dfcfe45b.JPG": "/static/media/Cardbiulding.dfcfe45b.JPG",
+    "static/media/Man1.7ac38cd1.JPG": "/static/media/Man1.7ac38cd1.JPG",
+    "static/media/Sysbuild.9fe01f5e.JPG": "/static/media/Sysbuild.9fe01f5e.JPG",
+    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3c85a3b2.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.7596ba39.chunk.js",
+    "static/css/main.2f788171.chunk.css",
+    "static/js/main.68b58e44.chunk.js"
+  ]
+}
