@@ -1,0 +1,15 @@
+.nav{
+    background-color: black;
+    color:white;
+    align-items: center;
+    display: block;
+}
+
+input{
+   
+   margin: 5px;
+}
+button{
+    margin: 5px;
+
+}
